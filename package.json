@@ -1,0 +1,30 @@
+{
+  "name": "proect",
+  "version": "1.0.0",
+  "description": "Modul 11",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.9",
+    "babel-jest": "^27.0.6"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natali0258/module11_homework.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Tribendis Nataliy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Natali0258/module11_homework/issues"
+  },
+  "homepage": "https://github.com/Natali0258/module11_homework#readme"
+}
